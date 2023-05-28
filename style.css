@@ -9,12 +9,12 @@ body
  }
 
  p {
-    color: blue;
+    color:black;
     font-size: 1.1em;
     font-family:'Manrope', sans-serif; /*police du paragraphe*/ 
 }
 .entete{
-    padding: 50px;
+    padding: 5px;
     background-image: url(paysage.jpeg);
     background: linear-gradient(90deg, #8360c3, #2ebf91);
 
