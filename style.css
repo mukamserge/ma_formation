@@ -1,0 +1,41 @@
+body
+ {
+    /*ici on utilise le selecteur body pour appliquer une police et une taille par défaut pour les éléments*/
+    font-size: 1.1em;
+    font-family: sans-serif; /*police du paragraphe*/ 
+    background-color: #4298f5;
+    color: white;
+    margin: 0;
+ }
+
+ p {
+    color: blue;
+    font-size: 1.1em;
+    font-family:'Manrope', sans-serif; /*police du paragraphe*/ 
+}
+.entete{
+    padding: 50px;
+    background-image: url(paysage.jpeg);
+    background: linear-gradient(90deg, #8360c3, #2ebf91);
+
+}
+h1{
+    color:#2e325e;
+    font-size: 3em; /*taille du texte*/ 
+    /*font-family: 'Montserrat', sans-serif; /*police du paragraphe*/ 
+    font-style: normal;
+    text-align: center;
+
+}
+li {
+    color: blue;
+    font-size: 1.5em;
+    font-family:'Manrope', serif ;
+}
+h2{
+    color:#2e325e;
+    font-size: 3em; /*taille du texte*/ 
+    /*font-family: 'Montserrat', sans-serif; /*police du paragraphe*/ 
+    font-style: normal;
+    text-align: left;  
+}
