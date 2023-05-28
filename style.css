@@ -3,7 +3,7 @@ body
     /*ici on utilise le selecteur body pour appliquer une police et une taille par défaut pour les éléments*/
     font-size: 1.1em;
     font-family: sans-serif; /*police du paragraphe*/ 
-    background-color: #4298f5;
+    background-color: #acbfa6;
     color: white;
     margin: 0;
  }
